@@ -7,5 +7,5 @@ scipy
 seaborn
 sklearn
 opencv-python
-skimage
+scikit-image
 pydicom
