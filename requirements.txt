@@ -5,7 +5,7 @@ pandas
 plotly
 scipy             
 seaborn
-sklearn
+scikit-learn
 opencv-python
 scikit-image
 pydicom
