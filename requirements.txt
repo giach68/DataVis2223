@@ -9,3 +9,8 @@ scikit-learn
 opencv-python
 scikit-image
 pydicom
+folium
+pyvista
+trame
+ipywidgets
+
